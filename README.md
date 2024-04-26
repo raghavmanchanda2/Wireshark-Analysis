@@ -31,7 +31,6 @@ For visual representations of the analysis, screenshots are provided in the [Scr
 Contributions are welcome. Please fork the repository, make your changes, and submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
 
 ## Credits
-- **Dr. Abdelhak Bentaleb**: Instructor for COMP 6461 - Computer Networks And Protocols.
 - **Mr. RAGHAV MANCHANDA**: Author of the analysis report.
 
 ## License
